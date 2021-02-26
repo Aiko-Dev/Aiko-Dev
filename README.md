@@ -1,4 +1,4 @@
-### Hi there, I'm Aiko 👋
+### Hello, I'm Aiko 👋
 
 - ☎️ You can reach me with this tag : **𝗔𝗶𝗸𝗼 『花』#0001**
 - 😁 I am 15 years old
