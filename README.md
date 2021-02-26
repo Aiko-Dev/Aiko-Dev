@@ -9,4 +9,5 @@
   <p>
     <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
     <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="python" src="https://img.shields.io/badge/Python-175DFF?style=flat-square&logo=Python&logoColor=white" />
   </p>
