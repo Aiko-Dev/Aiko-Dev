@@ -1,6 +1,6 @@
 ### Hello, I'm Aiko 👋
 
-- ☎️ You can reach me with this tag on Discord : **𝗔𝗶𝗸𝗼 『花』#0001**
+- ☎️ You can reach me with this tag on Discord : **" Aiko  .･ 🌸#2351**
 - 😁 I am 15 years old
 - 🏮 Actually, I don't have project
 - 💾 My software is [VSCode](https://code.visualstudio.com/) and [Sublime Text 3](https://www.sublimetext.com/)
