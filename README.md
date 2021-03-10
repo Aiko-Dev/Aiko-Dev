@@ -1,4 +1,4 @@
-### Hello, I'm Aiko 👋
+### Hello, I'm Misao 👋
 
 - ☎️ You can reach me with this tag on Discord : **" Aiko  .･ 🌸#2351**
 - 😁 I am 15 years old
