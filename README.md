@@ -1,6 +1,6 @@
 ### Hello, I'm Misao 👋
 
-- ☎️ You can reach me with this tag on Discord: **🍜 ~ 𝑴𝒊𝒔𝒂𝒐#5528**
+- ☎️ You can reach me with this tag on Discord: **𝑴𝒊𝒔𝒂𝒐 ˚˳♡#5528**
 - 😁 I am 15 years old
 - 🏮 Actually, I don't have project
 - 💾 My software is [VSCode](https://code.visualstudio.com/) and [Sublime Text 3](https://www.sublimetext.com/)
