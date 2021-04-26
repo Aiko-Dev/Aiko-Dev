@@ -12,5 +12,5 @@
     <img alt="python" src="https://img.shields.io/badge/Python-175DFF?style=flat-square&logo=Python&logoColor=white" />
   </p>
   
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Misao-Chan&show_icons=true&hide_border=true&theme=tokyonight" />
-<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Misao-Chan&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=King-Sama&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=King-Sama&show_icons=true&theme=tokyonight&layout=compact" />
