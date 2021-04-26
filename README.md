@@ -1,4 +1,4 @@
-### Hello, I'm Aiko 👋
+### Hello, I'm King 👋
 
 - ☎️ You can reach me with this tag on Discord: **🌹﹕Asae ✦ ₊˚#0001**
 - 😁 I am 15 years old
