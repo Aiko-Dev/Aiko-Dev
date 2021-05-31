@@ -1,9 +1,9 @@
 ### Hello, I'm King 👋
 
-- 🍂 You can reach me with this tag on Discord: **✿・Asae ৎ ⊹₊#0001**
-- 🌱 I am 15 years old
-- 🍁  Currently, I'm learning HTML and CSS for create websites
-- 🍃  My software is [VSCode](https://code.visualstudio.com/) and [Sublime Text 3](https://www.sublimetext.com/)
+-🍂  You can reach me with this tag on Discord: **✿・Asae ৎ ⊹₊#0001**
+-🌱  I am 15 years old
+-🍁  Currently, I'm learning HTML and CSS for create websites
+-🍃  My software is [VSCode](https://code.visualstudio.com/) and [Sublime Text 3](https://www.sublimetext.com/)
 
 ## 🌍 Languages:
   <p>
