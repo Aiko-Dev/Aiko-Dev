@@ -1,7 +1,7 @@
-## Hello, I'm King 👋
+## Hello, I'm Aiko 👋
 
-- 🌱 I am 15 years old
-- 🍁 Currently, I'm learning HTML and CSS for create websites
+- 🍃 I'm 15 years old
+- 🍂 Currently, I'm learning ExpressJS, Socket.io and ReactJS
 
 ## 🌍 Languages:
   <p>
