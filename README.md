@@ -1,7 +1,7 @@
 ## Hello, I'm Aiko 👋
 
 - 🍃 I'm 15 years old
-- ☘️ My current project is [CountBot](https://discord.com/api/oauth2/authorize?client_id=812755148601688134&permissions=2151148624&scope=bot)
+- ☘️ My current project is [Yuzuru](https://discord.com/api/oauth2/authorize?client_id=812755148601688134&permissions=2151148624&scope=bot)
 - 🍂 Currently, I'm learning ExpressJS, Socket.io and ReactJS
 
 ## 🌍 Languages:
