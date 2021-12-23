@@ -2,7 +2,7 @@
 
 - 🍃 I'm 15 years old
 - ☘️ My current project is [Yuzuru](https://discord.com/api/oauth2/authorize?client_id=812755148601688134&permissions=2151148624&scope=bot)
-- 🍂 Currently, I'm learning ExpressJS, Socket.io and ReactJS
+- 🍂 Currently, I'm learning Typescript
 
 ## 🌍 Languages:
   <p>
