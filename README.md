@@ -1,7 +1,7 @@
 ## Hello, I'm Aiko 👋
 
 - 🍃 I'm 15 years old
-- ☘️ My current project is [Yuzuru](https://discord.com/api/oauth2/authorize?client_id=812755148601688134&permissions=2151148624&scope=bot)
+- ☘️ My current project is [Logger](https://github.com/Leixy-Dev/Logger)
 - 🍂 Currently, I'm learning Typescript
 
 ## 🌍 Languages:
