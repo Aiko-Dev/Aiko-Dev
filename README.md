@@ -36,5 +36,5 @@
   
 ## Stats
   
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aiko-Dev&show_icons=true&hide_border=true&theme=tokyonight" />
-<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiko-Dev&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Leixy-Dev&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leixy-Dev&show_icons=true&theme=tokyonight&layout=compact" />
