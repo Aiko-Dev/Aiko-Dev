@@ -1,4 +1,4 @@
-## Hello, I'm Aiko 👋
+## Hello, I'm Leixy 👋
 
 - 🍃 I'm 15 years old
 - ☘️ My current project is [Logger](https://github.com/Leixy-Dev/Logger)
