@@ -2,7 +2,7 @@
 
 - 🍃 I'm 15 years old
 - ☘️ My current project is [Logger](https://github.com/Leixy-Dev/Logger)
-- 🍂 Currently, I'm learning Typescript
+- 🍂 Currently, I'm learning C#
 
 ## 🌍 Languages:
   <p>
