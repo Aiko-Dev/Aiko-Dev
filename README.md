@@ -2,7 +2,7 @@
 
 - 🍃 I'm 15 years old
 - ☘️ My current project is [Logger](https://github.com/Leixy-Dev/Logger)
-- 🍂 Currently, I'm learning Full-Stack web developpement (Express, ReactJS and CSS)
+- 🍂 Currently, I'm learning Java ☕
 
 ## 🌍 Languages:
   <p>
