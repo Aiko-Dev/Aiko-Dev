@@ -1,6 +1,6 @@
 ## Hello, I'm Leixy 👋
 
-- 🍃 I'm 15 years old
+- 🍃 I'm 16 years old
 - ☘️ My current project is [Logger](https://github.com/Leixy-Dev/Logger)
 - 🍂 Currently, I'm learning Java ☕
 
