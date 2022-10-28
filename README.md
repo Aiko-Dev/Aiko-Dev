@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### **I'm a 16yo french developer who love explore programming world**
+#### **I'm a 16yo french developer who loves to explore the programming world**
 
 ##### About Me
 
