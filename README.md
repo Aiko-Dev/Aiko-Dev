@@ -7,6 +7,7 @@
 - 🏫 High School student
 - 🎵 Music & anime lover
 - 🔒 Oriented back-end, sys administration and back-end software developement
+- 🐙 My main project: https://github.com/Karl-Lang/Karl
   
 <details>
   <summary><bold>🌍 Languages</bold></summary>
