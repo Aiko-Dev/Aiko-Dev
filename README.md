@@ -2,6 +2,8 @@
 
 #### **I'm a 16yo french developer who loves to explore the programming world**
 
+<img src="https://wakatime.com/badge/user/67bc8177-1017-4a0c-8916-0f4ec58be252.svg?style=for-the-badge" width=190px />
+
 ##### About Me
 
 - 🏫 High School student
