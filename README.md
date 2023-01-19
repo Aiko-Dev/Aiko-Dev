@@ -53,6 +53,4 @@
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" width=70px />
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" width=70px />
 </details>
-  
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItsJustAiko&show_icons=true&hide_border=true&theme=tokyonight" width:30px />
-<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsJustAiko&show_icons=true&theme=tokyonight&layout=compact" />
+
