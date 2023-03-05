@@ -1,6 +1,6 @@
 ## ♡ - Ｗｅｌｃｏｍｅ ！「 おはよう 」
 <br />
-<img src="https://pm1.narvii.com/8080/6b58b394124cb71899e835f8b5c2104837822f00r1-736-736v2_hq.jpg" align="right" alt="banner" height="280px" />
+<img src="https://pm1.narvii.com/8080/6b58b394124cb71899e835f8b5c2104837822f00r1-736-736v2_hq.jpg" align="right" alt="banner" height="260px" />
 🌙 Noëlle, 17yo
 <br /> <br />
 🍀 INTP-T - Ravenclaw
@@ -27,6 +27,7 @@
 🍂 Yarn, NPM, Prisma, TypeORM, Discord.JS, ESLint, Prettier, Express, JWT, Bcrypt, and more..
 
 <br /><br />
+<br />
 
 ## ♡ - Ｍｙ Ｓｔａｔｓ！「 統計 」
 
