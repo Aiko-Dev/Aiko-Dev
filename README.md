@@ -1,6 +1,6 @@
 ## ♡ - Ｗｅｌｃｏｍｅ ！「 おはよう 」
 <br />
-<img src="https://pm1.narvii.com/8080/6b58b394124cb71899e835f8b5c2104837822f00r1-736-736v2_hq.jpg" align="right" alt="banner" height="260px" />
+<img src="/pomelyyne.png" align="right" alt="banner" height="300px" />
 🌙 Noëlle, 17yo
 <br /> <br />
 🍀 INTP-T - Ravenclaw
@@ -14,11 +14,12 @@
 
 <br />
 <br />
+<br />
 
 ## ♡ - Ｋｎｏｗｌｅｄｇｅ ！「 ナリッジ 」
 <br />
 
-<img src="https://i.pinimg.com/originals/8c/d0/f2/8cd0f2bfb00bfae0c83fd512ecdd5bbc.png" alt="your name" width="350px" align="left"/>
+<img src="/pomelyyne_2.png" alt="your name" width="300px" align="left"/>
 
 🐧  MacOS, Windows 10, Debian, Ubuntu
  <br /> <br />
@@ -27,6 +28,11 @@
 🍂 Yarn, NPM, Prisma, TypeORM, Discord.JS, ESLint, Prettier, Express, JWT, Bcrypt, and more..
 
 <br /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 ## ♡ - Ｍｙ Ｓｔａｔｓ！「 統計 」
