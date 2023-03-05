@@ -28,6 +28,17 @@
 
 <br /><br />
 
-## Contact Me!
+## ♡ - Ｍｙ Ｓｔａｔｓ！「 統計 」
 
-<a href="https://discord.com/users/648950487554588702"><img align="center" alt="Discord Presence" src="https://lanyard.kyrie25.me/api/648950487554588702"/></a>
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Noelle-Ai&theme=radical" alt="stats" width="430px" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noelle-Ai&layout=compact&theme=radical" />
+
+<br />
+
+## ♡ - Ｃｏｎｔａｃｔ Ｍｅ！「 話す 」
+
+<br />
+
+<a href="https://discord.com/users/648950487554588702"><img align="center" alt="Discord Presence" src="https://lanyard.kyrie25.me/api/648950487554588702" width="400px" /></a>
