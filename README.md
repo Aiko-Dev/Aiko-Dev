@@ -1,4 +1,4 @@
-## ♡ - Ｗｅｌｃｏｍｅ ！「 おはよう 」
+## ♡ - Ｗｅｌｃｏｍｅ！「 おはよう 」
 <br />
 <img src="/pomelyyne.png" align="right" alt="banner" height="300px" />
 🌙 Noëlle, 17yo
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-## ♡ - Ｋｎｏｗｌｅｄｇｅ ！「 ナリッジ 」
+## ♡ - Ｋｎｏｗｌｅｄｇｅ！「 ナリッジ 」
 <br />
 
 <img src="/pomelyyne_2.png" alt="your name" width="300px" align="left"/>
