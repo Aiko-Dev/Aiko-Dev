@@ -7,9 +7,9 @@
 <br /> <br />
 ❤️ Love Lo-Fi, Forest, Anime & Manga, jap culture, programming... 
 <br /> <br />
-📚 Currently learning Assembly & processor architecture
+📚 Currently learning nothing..
 <br /> <br />
-☄️ Currently working on Honami - Private project, soon...
+☄️ Currently working on <a href="https://github.com/Karl-Lang/Karl/tree/v0.4">Karl Programming Language</a>
 <br />
 
 <br />
@@ -48,4 +48,4 @@
 
 <br />
 
-<a href="https://discord.com/users/648950487554588702"><img align="center" alt="Discord Presence" src="https://lanyard.kyrie25.me/api/648950487554588702" width="400px" /></a>
+<a href="https://discord.com/users/533555865991774210"><img align="center" alt="Discord Presence" src="https://lanyard.kyrie25.me/api/533555865991774210" width="400px" /></a>
