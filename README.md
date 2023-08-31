@@ -48,4 +48,4 @@
 
 <br />
 
-<a href="https://discord.com/users/533555865991774210"><img align="center" alt="Discord Presence" src="https://lanyard.kyrie25.me/api/533555865991774210" width="400px" /></a>
+<a href="https://discord.com/users/533555865991774210"><img align="center" alt="Discord Presence" src="https://lanyard.kyrie25.me/api/985986599995187270" width="400px" /></a>
