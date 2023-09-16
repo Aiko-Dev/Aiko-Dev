@@ -9,6 +9,8 @@
 <br /> <br />
 📚 Currently learning nothing..
 <br /> <br />
+🏫 Annecy's University Student
+<br /> <br />
 ☄️ Currently working on <a href="https://github.com/Karl-Lang/Karl/tree/v0.4">Karl Programming Language</a>
 <br />
 
@@ -25,7 +27,7 @@
  <br /> <br />
 ☕ HTML, CSS, JavaScript, TypeScript, Java, Kotlin, Python, <i>little bit</i> Bash
  <br /> <br />
-🍂 Yarn, NPM, Prisma, TypeORM, Discord.JS, ESLint, Prettier, Express, JWT, Bcrypt, and more..
+🍂 Yarn, NPM, Prisma, TypeORM, Discord.JS, ESLint, Prettier, Express, JWT, Bcrypt, JDA, Gson, Logback, Hibernate, JPA and more..
 
 <br /><br />
 <br />
