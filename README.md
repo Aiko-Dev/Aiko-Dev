@@ -1,7 +1,7 @@
 ## ♡ - Ｗｅｌｃｏｍｅ！「 おはよう 」
 <br />
 <img src="/pomelyyne.png" align="right" alt="banner" height="300px" />
-🌙 Noëlle, 17yo
+🌙 Léa, 17yo
 <br /> <br />
 🍀 INTP-T - Ravenclaw
 <br /> <br />
