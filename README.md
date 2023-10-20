@@ -9,7 +9,7 @@
 <br /> <br />
 📚 Currently learning nothing..
 <br /> <br />
-🏫 Annecy's University Student
+🏫 USMB's University Student in Annecy's IUT
 <br /> <br />
 ☄️ Currently working on <a href="https://github.com/Karl-Lang/Karl/tree/v0.4">Karl Programming Language</a>
 <br />
