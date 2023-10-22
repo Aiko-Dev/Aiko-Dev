@@ -43,8 +43,8 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Noelle-Ai&theme=radical" alt="stats" width="430px" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noelle-Ai&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aikoo-Sama&theme=radical" alt="stats" width="430px" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aikoo-Sama&layout=compact&theme=radical" />
 
 <br />
 
