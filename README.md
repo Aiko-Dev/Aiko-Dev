@@ -13,7 +13,7 @@
 <br /> <br />
 ☄️ Currently working on <a href="https://github.com/Karl-Lang/Karl/tree/v0.4">Karl Programming Language</a>
 <br /> <br />
-👑 Contributor for DraftBot RPG Adventure.
+👑 Contributor and Technical Team for DraftBot RPG Adventure.
 <br />
 
 <br />
