@@ -27,9 +27,9 @@
 
 🐧  MacOS, Windows 10, Debian, Ubuntu
  <br /> <br />
-☕ HTML, CSS, JavaScript, TypeScript, Java, Kotlin, Python, <i>little bit</i> Bash
+☕ HTML, CSS, JavaScript, TypeScript, Java, Kotlin, Python, C#, <i>little bit</i> Bash
  <br /> <br />
-🍂 Yarn, NPM, Prisma, TypeORM, Discord.JS, ESLint, Prettier, Express, JWT, Bcrypt, JDA, Gson, Logback, Hibernate, JPA and more..
+🍂 Yarn, NPM, Prisma, TypeORM, Discord.JS, ESLint, Prettier, Express, JWT, Bcrypt, JDA, Gson, Logback, Hibernate, JPA, MySQL, PostgreSQL, WPF, Gradle and more..
 
 <br /><br />
 <br />
