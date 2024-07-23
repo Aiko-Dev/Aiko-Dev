@@ -1,7 +1,7 @@
 ## ♡ - Ｗｅｌｃｏｍｅ！「 おはよう 」
 <br />
 <img src="/pomelyyne.png" align="right" alt="banner" height="300px" />
-🌙 Léa, 18yo
+🌙 Aiko.
 <br /> <br />
 🍀 INTP-T - Ravenclaw
 <br /> <br />
@@ -9,11 +9,7 @@
 <br /> <br />
 📚 Currently learning nothing..
 <br /> <br />
-🏫 USMB's University Student in Annecy's IUT
-<br /> <br />
 ☄️ Currently working on <a href="https://github.com/Karl-Lang/Karl/tree/v0.4">Karl Programming Language</a>
-<br /> <br />
-👑 Contributor and Technical Team for DraftBot RPG Adventure.
 <br />
 
 <br />
